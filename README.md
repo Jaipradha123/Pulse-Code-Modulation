@@ -1,4 +1,7 @@
-# Pulse-Code-Modulation
+
+# PULSE CODE MODULATION AND DELTA MODULATION
+# NAME:JAI PRADHA M
+# REG NO:212223060096
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
 # Tools required
